@@ -31,3 +31,5 @@ tabb "green tab"
 # 修改tab为当前path
 tab
 ```
+
+![demo.png](demo.png)
